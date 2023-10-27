@@ -200,7 +200,7 @@ select,
     height: 80px;
     font-size: 30px;
     background: #3578e5;
-    background: linear-gradient(90deg, #370404 0, #790909 35%, #b05151 100%);
+    background: linear-gradient(90deg, #718925 0, #90b02a 35%, #b9d269 100%);
     color: white;
     border: 0;
 }
