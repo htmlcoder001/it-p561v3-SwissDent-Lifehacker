@@ -1789,7 +1789,8 @@
 
 @media (min-height: 790px) {
   .ejjq64ki.ejjq64ki {
-    width: 680px;
+    max-width: 680px;
+    width: 100%;
   }
 }
 
